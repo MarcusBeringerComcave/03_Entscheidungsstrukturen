@@ -20,3 +20,4 @@ isJohnEqual = (ageJohn == ageMark);
 // console.log("isJohnEqual: " + isJohnEqual);
 // console.log("------------------");
 
+//Anfang
