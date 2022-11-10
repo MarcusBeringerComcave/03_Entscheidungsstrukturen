@@ -32,3 +32,14 @@ isJohnEqual = (ageJohn == ageMark);
 //     console.log("John ist älter");
 // }
 
+/***IF - ELSE*****/
+// mit ASlternative
+//entweder ja oder nein
+if (true) 
+{
+  console.log("John ist älter.");  
+} else 
+{
+   console.log("John ist jünger.");
+}
+
